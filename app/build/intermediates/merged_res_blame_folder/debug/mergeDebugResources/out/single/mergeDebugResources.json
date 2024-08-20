@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\raw_setting_test.json.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\raw\\setting_test.json"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_scale_up.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_icons8_delete.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\icons8_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_to_left.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\raw_gray_setting.json.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\raw\\gray_setting.json"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_from_right.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_download.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_scale_down.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_from_left.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\from_left.xml"
+    },
+    {
+        "merged": "com.example.animationbetweenfragments.app-debug-50:/anim_flip_out_test_anim.xml.flat",
+        "source": "com.example.animationbetweenfragments.app-main-52:/anim/flip_out_test_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_image_icon.png.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\image_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_belet_button.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\belet_button.xml"
+    },
+    {
+        "merged": "com.example.animationbetweenfragments.app-debug-50:/anim_flip_in_test_anim.xml.flat",
+        "source": "com.example.animationbetweenfragments.app-main-52:/anim/flip_in_test_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_bottom_nav_color.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\drawable_lottie_settings_icon.gif.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\drawable\\lottie_settings_icon.gif"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_download_anim.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\download_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_fade_anim.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\fade_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\raw_test.json.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\raw\\test.json"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\navigation_my_nav.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\navigation\\my_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\anim_to_right.xml.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\anim\\to_right.xml"
+    },
+    {
+        "merged": "com.example.animationbetweenfragments.app-debug-50:/anim_from_right.xml.flat",
+        "source": "com.example.animationbetweenfragments.app-main-52:/anim/from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-debug-50:\\raw_animation.json.flat",
+        "source": "C:\\Users\\Windows 11\\.gradle\\daemon\\8.6\\com.example.animationbetweenfragments.app-main-52:\\raw\\animation.json"
+    },
+    {
+        "merged": "com.example.animationbetweenfragments.app-debug-50:/anim_from_left.xml.flat",
+        "source": "com.example.animationbetweenfragments.app-main-52:/anim/from_left.xml"
+    }
+]

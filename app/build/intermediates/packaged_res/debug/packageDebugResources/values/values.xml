@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0A0A0A</color>
+    <color name="belet_back">#101014</color>
+    <color name="black">#FF000000</color>
+    <color name="items_color">#5E5E62</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AnimationBetweenFragments</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.AnimationBetweenFragments" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AnimationBetweenFragments" parent="Base.Theme.AnimationBetweenFragments"/>
+</resources>
